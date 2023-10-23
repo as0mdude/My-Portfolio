@@ -15,7 +15,7 @@ body {
 
 .maintext {
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.5); /* Transparent black box */
+  background-color: rgba(0, 0, 0, 0.0); /* Transparent black box */
   padding: 100px; /* Add padding to create space between text and box */
   border-radius: 60px; /* Rounded corners for the box */
   font-family: 'Outfit', sans-serif;
